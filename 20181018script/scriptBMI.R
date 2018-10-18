@@ -4,7 +4,7 @@
 
 ####Input your weight in kg
 
-weight <- 50
+weight <- 78
 
 ###Input your height in m
 
@@ -27,4 +27,7 @@ if (BMI < 16) {
     }
   }
 }
+
+
+
   
