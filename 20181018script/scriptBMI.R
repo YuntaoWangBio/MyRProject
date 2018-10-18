@@ -17,7 +17,7 @@ BMI <- weight / (height^2)
 ###Get your results
 
 if (BMI < 16) {
-  print('Have a couple more chocolate bars')
+  print('Have a couple more milk chocolate bars')
 } else {
   if (BMI >= 16 & BMI < 25) {
     print('Keep on snacking')
